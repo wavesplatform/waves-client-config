@@ -1,4 +1,9 @@
 {
+  "version": 1,
+  
+  "whitelist": [
+    "client.wavesplatform.com"
+  ],
   "blacklist": [
     "binance-promo.net"
   ]
