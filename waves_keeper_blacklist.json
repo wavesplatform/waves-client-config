@@ -3,7 +3,8 @@
   
   "whitelist": [
     "client.wavesplatform.com",
-    "testnet.wavesplatform.com"
+    "testnet.wavesplatform.com",
+    "stage.waveswallet.io"
   ],
   "blacklist": [
     "binance-promo.net"
