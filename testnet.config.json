@@ -26,6 +26,7 @@
     "CAN_PAIRING_WITH_MOBILE": true,
     "CAN_ANY_TRANSACTION": true
   },
+  "NOTIFICATIONS": [],
   "SETTINGS": {
     "DEX": {
       "WATCH_LIST_PAIRS": [
