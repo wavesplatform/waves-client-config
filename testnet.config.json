@@ -26,7 +26,16 @@
     "CAN_PAIRING_WITH_MOBILE": true,
     "CAN_ANY_TRANSACTION": true
   },
-  "NOTIFICATIONS": [],
+  "NOTIFICATIONS": [  {
+    "start_date": "Tue Jan 29 2019 15:35:15 GMT+0300",
+    "id": "BCH_WARNING",
+    "end_date": "Tue Feb 14 2019 13:02:15 GMT+0300",
+    "type":"success",
+    "text": {
+      "en": "Hares came to the residential yards of Moscow",
+      "ru": "Зайцы пришли в жилые дворы Москвы"
+    }
+  }],
   "SETTINGS": {
     "DEX": {
       "WATCH_LIST_PAIRS": [
