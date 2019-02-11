@@ -80,6 +80,15 @@
             "gatewayId": "BCH",
             "addressRegEx" : "^[13][a-km-zA-HJ-NP-Z1-9]{33}"
         },
+                {
+            "assetId": "62LyMjcr2DtiyF5yVXFhoQ2q414VPPJXjsNYp72SuDCH",
+            "displayName": "Bitcoin SV",
+            "isFiat": false,
+            "isGateway" : true,
+            "wavesId" : "BSV",
+            "gatewayId": "BSV",
+            "addressRegEx" : "^[13][a-km-zA-HJ-NP-Z1-9]{33}"
+        },
         {
             "assetId": "2mX5DzVKWrAJw8iwdJnV2qtoeVG9h5nTDpTqC1wb1WEN",
             "displayName": "TRY",
