@@ -10,7 +10,7 @@
   "generalAssetIds": [
     {
       "iconUrls": {
-        "default": "https://raw.githubusercontent.com/wavesplatform/waves-client-config/feature/bsv/icons/logo_monero_48.png"
+        "default": "https://raw.githubusercontent.com/wavesplatform/waves-client-config/feature/bsv/icons/logo_waves_48.png"
       },
       "assetId": "WAVES",
       "displayName": "Waves",
@@ -112,7 +112,7 @@
       "displayName": "Bitcoin SV",
       "isFiat": false,
       "isGateway": true,
-      "wavesId": "BSV",
+      "wavesId": "WBSV",
       "gatewayId": "BSV",
       "addressRegEx": "^[13][a-km-zA-HJ-NP-Z1-9]{33}"
     },
