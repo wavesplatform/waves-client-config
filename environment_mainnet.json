@@ -106,6 +106,18 @@
     },
     {
       "iconUrls": {
+        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/logo_bitcoinsv_48.png"
+      },
+      "assetId": "62LyMjcr2DtiyF5yVXFhoQ2q414VPPJXjsNYp72SuDCH",
+      "displayName": "Bitcoin SV",
+      "isFiat": false,
+      "isGateway": true,
+      "wavesId": "WBSV",
+      "gatewayId": "BSV",
+      "addressRegEx": "^[13][a-km-zA-HJ-NP-Z1-9]{33}"
+    },
+    {
+      "iconUrls": {
         "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/logo_lira_48.png"
       },
       "assetId": "2mX5DzVKWrAJw8iwdJnV2qtoeVG9h5nTDpTqC1wb1WEN",
