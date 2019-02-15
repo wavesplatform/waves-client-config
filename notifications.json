@@ -1,0 +1,20 @@
+{
+  "notifications": [
+    {
+      "startDate": "Tue Jan 29 2019 15:35:15 GMT+0300",
+      "endDate": "Tue Feb 14 2019 13:02:15 GMT+0300",
+      "logoUrl": "http://memesmix.net/media/created/5ny6x3.jpg",
+      "id": "ROBOT",
+      "title": {
+        "en": "Мама сшила мне штаны из березовой коры",
+        "ru": "Mom sewed me birch bark pants",
+        "jp": "ママは私に白樺の樹皮のズボンを縫った"
+      },
+      "subTitle": {
+        "en": "Мама сшила мне штаны из березовой коры",
+        "ru": "Mom sewed me birch bark pants",
+        "jp": "ママは私に白樺の樹皮のズボンを縫った"
+      }
+    }
+  ]
+}
