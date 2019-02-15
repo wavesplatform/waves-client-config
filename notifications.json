@@ -1,8 +1,8 @@
 {
   "notifications": [
     {
-      "startDate": "2019-02-14T00:00:00.000Z",
-      "endDate": "2019-02-19T00:00:00.000Z",
+      "startDate": "1549921996",
+      "endDate": "1550613196",
       "logoUrl": "http://memesmix.net/media/created/5ny6x3.jpg",
       "id": "Maks",
       "title": {
@@ -17,8 +17,8 @@
       }
     },
     {
-      "startDate": "2019-02-14T00:00:00.0300",
-      "endDate": "2019-02-19T00:00:00.000Z",
+      "startDate": "1549921996",
+      "endDate": "1550613196",
       "logoUrl": "http://memesmix.net/media/created/5ny6x3.jpg",
       "id": "ROBOT",
       "title": {
