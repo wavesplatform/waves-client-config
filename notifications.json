@@ -1,18 +1,34 @@
 {
   "notifications": [
     {
-      "startDate": "Tue Jan 29 2019 15:35:15 GMT+0300",
-      "endDate": "Tue Feb 14 2019 13:02:15 GMT+0300",
+      "startDate": "2019-02-14T00:00:00+0300",
+      "endDate": "2019-02-19T00:00:00+0300",
       "logoUrl": "http://memesmix.net/media/created/5ny6x3.jpg",
-      "id": "ROBOT",
+      "id": "Maks",
       "title": {
-        "en": "Мама сшила мне штаны из березовой коры",
-        "ru": "Mom sewed me birch bark pants",
+        "en": "Мама сшила мне штаны из березовой коры Мама сшила мне штаны из березовой коры Мама сшила мне штаны из березовой коры",
+        "ru": "Mom sewed me birch bark pants Mom sewed me birch bark pants Mom sewed me birch bark pants",
         "jp": "ママは私に白樺の樹皮のズボンを縫った"
       },
       "subTitle": {
-        "en": "Мама сшила мне штаны из березовой коры",
-        "ru": "Mom sewed me birch bark pants",
+        "en": "Мама сшила мне штаны из березовой коры Мама сшила мне штаны из березовой коры Мама сшила мне штаны из березовой коры Мама сшила мне штаны из березовой коры",
+        "ru": "Mom sewed me birch bark pants Mom sewed me birch bark pants Mom sewed me birch bark pants Mom sewed me birch bark pants",
+        "jp": "ママは私に白樺の樹皮のズボンを縫った"
+      }
+    },
+    {
+      "startDate": "2019-02-14T00:00:00+0300",
+      "endDate": "2019-02-19T00:00:00+0300",
+      "logoUrl": "http://memesmix.net/media/created/5ny6x3.jpg",
+      "id": "ROBOT",
+      "title": {
+        "en": "Мама сшила мне штаны из березовой коры Мама сшила мне штаны из березовой коры Мама сшила мне штаны из березовой коры",
+        "ru": "Mom sewed me birch bark pants Mom sewed me birch bark pants Mom sewed me birch bark pants",
+        "jp": "ママは私に白樺の樹皮のズボンを縫った"
+      },
+      "subTitle": {
+        "en": "Мама сшила мне штаны из березовой коры Мама сшила мне штаны из березовой коры Мама сшила мне штаны из березовой коры Мама сшила мне штаны из березовой коры",
+        "ru": "Mom sewed me birch bark pants Mom sewed me birch bark pants Mom sewed me birch bark pants Mom sewed me birch bark pants",
         "jp": "ママは私に白樺の樹皮のズボンを縫った"
       }
     }
