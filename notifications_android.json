@@ -1,8 +1,8 @@
 {
   "notifications": [
     {
-      "startDate": "1549921996",
-      "endDate": "1550613196",
+      "startDate": "1550793600",
+      "endDate": "1551311999",
       "logoUrl": "https://d1jh0rcszsaxik.cloudfront.net/news/bch-hardfork-part1.png",
       "id": "BCH_Hardfork_part_1",
       "title": {
@@ -39,8 +39,8 @@
       }
     },
     {
-      "startDate": "1549921996",
-      "endDate": "1550613196",
+      "startDate": "1551312000",
+      "endDate": "1551484799",
       "logoUrl": "https://d1jh0rcszsaxik.cloudfront.net/news/bch-hardfork-part2.png",
       "id": "BCH_Hardfork_part_2",
       "title": {
