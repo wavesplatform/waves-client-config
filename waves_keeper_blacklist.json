@@ -8,7 +8,6 @@
   "blacklist": [
     "binance-promo.net"
   ],
-  "networks": [ "mainnet", "testnet" ],
   "network_config": {},
   "messages_config": {
     "message_expiration_ms": 1800000,
