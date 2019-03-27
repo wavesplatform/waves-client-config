@@ -18,8 +18,9 @@
         "pt-PT": "Hardfork BCH",
         "ru": "Хардфорк BCH",
         "tr": "BCH çatallanması",
-        "zh-Hant": "BCH 硬分叉",
-        "pl": "Hardfork BCH"
+        "zh-Hans-CN": "BCH 硬分叉",
+        "pl": "Hardfork BCH",
+        "it": "BCH Hardfork"
       },
       "subTitle": {
         "en": "We have suspended BCH trading and are currently airdropping the new BSV coin to BCH holders.",
@@ -34,8 +35,9 @@
         "pt-PT": "O trading de BCH encontra-se suspenso pelo motivo de estar a acontecer a distribuição de BSV para os titulares de BCH.",
         "ru": "Мы приостановили торговые операции с монетой BCH и сейчас начисляем ее держателям новую монету BSV.",
         "tr": "BCH takaslarını askıya aldık ve şu anda BCH sahiplerine yeni BSV kripto parasının dağıtımını yapıyoruz.",
-        "zh-Hant": "我们暂停了BCH交易，目前正在向BCH持有人空投新的BSV硬币。",
-        "pl": "Zawiesiliśmy możliwość handlu kryptowalutą BCH i obecnie dokonujemy dystrybucji (airdrop) nowej kryptowaluty BSV dla dotychczasowych posiadaczy BCH."
+        "zh-Hans-CN": "我们暂停了BCH交易，目前正在向BCH持有人空投新的BSV硬币。",
+        "pl": "Zawiesiliśmy możliwość handlu kryptowalutą BCH i obecnie dokonujemy dystrybucji (airdrop) nowej kryptowaluty BSV dla dotychczasowych posiadaczy BCH.",
+		"it": "We have suspended BCH trading and are currently airdropping the new BSV coin to BCH holders."
       }
     },
     {
@@ -56,8 +58,9 @@
         "pt-PT": "Concluído!",
         "ru": "Готово!",
         "tr": "Tamamlandı!",
-        "zh-Hant": "完成！",
-        "pl": "Gotowe!"
+        "zh-Hans-CN": "完成！",
+        "pl": "Gotowe!",
+        "it": "Done!"
       },
       "subTitle": {
         "en": "We have distributed new BSV coins to all BCH holders. These coins can now be traded, as well as deposited and withdrawn.",
@@ -72,8 +75,9 @@
         "pt-PT": "A distribuição de BSV os titulares de BCH encontra-se concluída. O serviços de trading, depósito e levantamento destas moedas estão novamente disponíveis.",
         "ru": "Мы начислили новую монету BSV всем держателям BCH. Монеты вновь участвуют в торгах, их можно вводить и выводить.",
         "tr": "Tüm BCH sahiplerine BSV dağıtımı tamamlandı. BSV’yi takas edebilir, yatırma ve çekme işlemlerini yapabilirsiniz.",
-        "zh-Hant": "我们已经向所有BCH持有者分发了新的BSV币。 这些BSV币现在可以交易，也可以存款和提款。",
-        "pl": "Dokonaliśmy dystrybucji kryptowaluty BSV wszystkim dotychczasowym posiadaczom kryptowaluty BCH. Od teraz te kryptowaluty mogą już być przedmiotem handlu, a także można dokonać depozytu lub wypłaty."
+        "zh-Hans-CN": "我们已经向所有BCH持有者分发了新的BSV币。 这些BSV币现在可以交易，也可以存款和提款。",
+        "pl": "Dokonaliśmy dystrybucji kryptowaluty BSV wszystkim dotychczasowym posiadaczom kryptowaluty BCH. Od teraz te kryptowaluty mogą już być przedmiotem handlu, a także można dokonać depozytu lub wypłaty.",
+        "it": "We have distributed new BSV coins to all BCH holders. These coins can now be traded, as well as deposited and withdrawn."
       }
     }
   ]
