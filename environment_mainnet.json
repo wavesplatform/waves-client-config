@@ -30,7 +30,7 @@
       "isGateway": true,
       "wavesId": "WBTC",
       "gatewayId": "BTC",
-      "addressRegEx": "^[13][a-km-zA-HJ-NP-Z1-9]{33}"
+      "addressRegEx": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}$"
     },
     {
       "iconUrls": {
@@ -42,7 +42,7 @@
       "isGateway": true,
       "wavesId": "WETH",
       "gatewayId": "ETH",
-      "addressRegEx": "^0x[a-fA-F0-9]{40}$"
+      "addressRegEx": "^0x[0-9a-f]{40}$"
     },
     {
       "iconUrls": {
@@ -90,7 +90,7 @@
       "isGateway": true,
       "wavesId": "WZEC",
       "gatewayId": "ZEC",
-      "addressRegEx": "^t1[a-zA-Z0-9]{33}"
+      "addressRegEx": "^t[0-9a-z]{34}$"
     },
     {
       "iconUrls": {
@@ -102,7 +102,7 @@
       "isGateway": true,
       "wavesId": "WBCH",
       "gatewayId": "BCH",
-      "addressRegEx": "^[13][a-km-zA-HJ-NP-Z1-9]{33}"
+      "addressRegEx": "^([13][a-km-zA-HJ-NP-Z1-9]{25,34}|[qp][a-zA-Z0-9]{41})$"
     },
     {
       "iconUrls": {
@@ -114,7 +114,7 @@
       "isGateway": true,
       "wavesId": "WBSV",
       "gatewayId": "BSV",
-      "addressRegEx": "^[13][a-km-zA-HJ-NP-Z1-9]{33}"
+      "addressRegEx": "^([13][a-km-zA-HJ-NP-Z1-9]{25,34}|[qp][a-zA-Z0-9]{41})$"
     },
     {
       "iconUrls": {
@@ -138,7 +138,7 @@
       "isGateway": true,
       "wavesId": "WDASH",
       "gatewayId": "DASH",
-      "addressRegEx": "^X[1-9A-HJ-NP-Za-km-z]{33}"
+      "addressRegEx": "^X[a-km-zA-HJ-NP-Z1-9]{25,34}$"
     },
     {
       "iconUrls": {
@@ -150,7 +150,7 @@
       "isGateway": true,
       "wavesId": "WXMR",
       "gatewayId": "XMR",
-      "addressRegEx": "^4[0-9AB][1-9A-HJ-NP-Za-km-z]{93}"
+      "addressRegEx": "^([a-km-zA-HJ-NP-Z1-9]{95}|[a-km-zA-HJ-NP-Z1-9]{106})$"
     }
   ],
   "assets": [
