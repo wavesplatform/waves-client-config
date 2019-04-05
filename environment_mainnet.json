@@ -90,7 +90,7 @@
       "isGateway": true,
       "wavesId": "WZEC",
       "gatewayId": "ZEC",
-      "addressRegEx": "^t[0-9a-z]{34}$"
+      "addressRegEx": "^t[a-zA-Z0-9]{34}$"
     },
     {
       "iconUrls": {
