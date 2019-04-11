@@ -4,7 +4,8 @@
   "whitelist": [
     "client.wavesplatform.com",
     "testnet.wavesplatform.com",
-    "oracles.wavesexplorer.com"
+    "oracles.wavesexplorer.com",
+    "vostok.wavesplatform.com"
   ],
   "blacklist": [
     "binance-promo.net"
