@@ -92,5 +92,5 @@
       ]
     }
   },
-  "SERVICE_TEMPORARILY_UNAVAILABLE": true
+  "SERVICE_TEMPORARILY_UNAVAILABLE": false
 }
