@@ -2,7 +2,7 @@
     "notifications": [
         {
             "startDate": "1550793600",
-            "endDate": "1587820534",
+            "endDate": "1559406054000",
             "logoUrl": "https://github-proxy.wvservices.com/wavesplatform/waves-client-config/mobile/v2.3/notifications_test_android_1.png",
             "id": "Test_1",
             "title": {
