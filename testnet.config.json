@@ -44,7 +44,7 @@
   "NOTIFICATIONS": [
    {  "type":"info",
       "id": "trading contest",
-      "start_date": "Mon Jun 10 2019 12:00:15 GMT+0300",
+      "start_date": "Mon Jun 1 2019 12:00:15 GMT+0300",
       "end_date": "Fri Jun 19 2019 23:59:59 GMT+0300",
       "text": {
         "en": "Win 5,000 WAVES in a trading contest on Waves DEX! Details can be found [here](https://wsoc.io)",
