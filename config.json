@@ -84,6 +84,17 @@
         "pl": "Dokonaliśmy dystrybucji kryptowaluty BSV wszystkim dotychczasowym posiadaczom kryptowaluty BCH. Od teraz te kryptowaluty mogą już być przedmiotem handlu, a także można dokonać depozytu lub wypłaty.",
         "pt": "Finalizamos a distribuição de BSV para todos os portadores de BCH. Agora essas moedas podem ser negociadas, depositadas e sacadas."
       }
+    },
+    {
+      "id": "WSOC",
+      "end_date": "Thu Jun 20 2019 00:00:00 GMT+0300",
+      "start_date": "Thu Jun 13 2019 00:00:00 GMT+0300",
+      "type": "info",
+      "text": {
+        "en": "Win 5,000 WAVES in a trading contest on Waves DEX! Details can be found here: [wsoc.io](https://wsoc.io)",
+        "ru": "Выиграй 5 000 WAVES в конкурсе трейдеров на Waves DEX! Подробности по ссылке: [wsoc.io](https://wsoc.io)"
+      },
+      "wsoc": true
     }
   ],
   "SETTINGS": {
