@@ -13,6 +13,19 @@
                 "en": "Wherever I am, you know – everyone do elbows dance.",
                 "ru": "Где бы я не был, ты знаешь – все танцуют локтями."
             }
+        },
+        {
+            "startDate": "1550793600",
+            "endDate": "2559406054",
+            "logoUrl": "https://github-proxy.wvservices.com/wavesplatform/waves-client-config/mobile/v2.3/notifications_test_android_1.png",
+            "id": "Test4412",
+            "title": {
+                "en": "Win 5,0000 WAVES in a trading\ncontest on Waves DEX!"
+            },
+            "subTitle": {
+                "en": "Details can be found here:\nhttps://wsoc.io"                
+            }
         }
+        
     ]
 }
