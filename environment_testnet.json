@@ -15,6 +15,7 @@
             "isGateway" : false,
             "wavesId" : "WAVES",
             "gatewayId": "WAVES",
+            "gatewayType": "",
             "addressRegEx" : ""
         },
         {
@@ -24,6 +25,7 @@
             "isGateway" : true,
             "wavesId" : "WBTC",
             "gatewayId": "BTC",
+            "gatewayType": "coinomat",
             "addressRegEx" : "^[13][a-km-zA-HJ-NP-Z1-9]{33}"
         },
         {
@@ -33,6 +35,7 @@
             "isGateway" : true,
             "wavesId" : "WETH",
             "gatewayId": "ETH",
+            "gatewayType": "coinomat",
             "addressRegEx" : "^0x[a-fA-F0-9]{40}$"
         },
         {
@@ -42,6 +45,7 @@
             "isGateway" : true,
             "wavesId" : "WUSD",
             "gatewayId": "USD",
+            "gatewayType": "coinomat",
             "addressRegEx": ""
         },
         {
@@ -51,6 +55,7 @@
             "isGateway" : true,
             "wavesId" : "WEUR",
             "gatewayId": "EUR",
+            "gatewayType": "coinomat",
             "addressRegEx" : ""
         },
         {
@@ -60,6 +65,7 @@
             "isGateway" : true,
             "wavesId" : "WLTC",
             "gatewayId": "LTC",
+            "gatewayType": "coinomat",
             "addressRegEx" : "^[LM3][a-km-zA-HJ-NP-Z1-9]{26,33}$"
         },
         {
@@ -69,6 +75,7 @@
             "isGateway" : true,
             "wavesId" : "WZEC",
             "gatewayId": "ZEC",
+            "gatewayType": "coinomat",
             "addressRegEx" : "^t1[a-zA-Z0-9]{33}"
         },
         {
@@ -78,6 +85,7 @@
             "isGateway" : true,
             "wavesId" : "WBCH",
             "gatewayId": "BCH",
+            "gatewayType": "coinomat",
             "addressRegEx" : "^[13][a-km-zA-HJ-NP-Z1-9]{33}"
         },
         {
@@ -87,6 +95,7 @@
             "isGateway" : true,
             "wavesId" : "WTRY",
             "gatewayId": "TRY",
+            "gatewayType": "coinomat",
             "addressRegEx" : ""
         },
         {
@@ -96,6 +105,7 @@
             "isGateway" : true,
             "wavesId" : "WDASH",
             "gatewayId": "DASH",
+            "gatewayType": "coinomat",
             "addressRegEx" : "^X[1-9A-HJ-NP-Za-km-z]{33}"
         },
         {
@@ -105,6 +115,7 @@
             "isGateway" : true,
             "wavesId" : "WXMR",
             "gatewayId": "XMR",
+            "gatewayType": "coinomat",
             "addressRegEx" : "^4[0-9AB][1-9A-HJ-NP-Za-km-z]{93}"
         }
     ]
