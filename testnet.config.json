@@ -42,7 +42,8 @@
     "CAN_ANY_TRANSACTION": true
   },
   "NOTIFICATIONS": [
-   {  "type":"info",
+   {
+     "type":"info",
       "id": "WSOC",
       "start_date": "Thu Jun 13 2019 00:00:00 GMT+0300",
       "end_date": "Thu Jun 20 2019 00:00:00 GMT+0300",
