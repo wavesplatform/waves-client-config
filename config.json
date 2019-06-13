@@ -51,8 +51,8 @@
       "start_date": "Thu Jun 13 2019 00:00:00 GMT+0300",
       "type": "info",
       "text": {
-        "en": "Win 5,000 WAVES in a trading contest on Waves DEX! Details can be found here: [wsoc.io](https://wsoc.io/?utm_source=dexmobile&utm_medium=cpmhttps://wsoc.io/)",
-        "ru": "Выиграй 5 000 WAVES в конкурсе трейдеров на Waves DEX! Подробности по ссылке: [wsoc.io](https://wsoc.io/?utm_source=dexmobile&utm_medium=cpmhttps://wsoc.io/)"
+        "en": "Win 5,000 WAVES in a trading contest on Waves DEX! Details can be found here: [wsoc.io](https://wsoc.io/?utm_source=dexsite&utm_medium=cpm)",
+        "ru": "Выиграй 5 000 WAVES в конкурсе трейдеров на Waves DEX! Подробности по ссылке: [wsoc.io](https://wsoc.io/?utm_source=dexsite&utm_medium=cpm)"
       },
       "wsoc": true
     }
