@@ -27,7 +27,7 @@
       "wavesId": "WBTC",
       "gatewayId": "BTC",
       "gatewayType": "coinomat",
-      "addressRegEx": "^[13][a-km-zA-HJ-NP-Z1-9]{33}"
+      "addressRegEx": "^[13][a-km-zA-HJ-NP-Z1-9]{25,34}|(bc1)[a-z0-9]{25,90}"
     },
     {
       "assetId": "BrmjyAWT5jjr3Wpsiyivyvg5vDuzoX2s93WgiexXetB3",
