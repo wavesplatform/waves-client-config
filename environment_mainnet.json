@@ -163,9 +163,117 @@
       "wavesId": "WXMR",
       "gatewayId": "XMR",
       "addressRegEx": "^([a-km-zA-HJ-NP-Z1-9]{95}|[a-km-zA-HJ-NP-Z1-9]{106})$"
+    },
+    {
+      "iconUrls": {
+        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v2/ergo.png"
+      },
+      "assetId": "5dJj4Hn9t2Ve3tRpNGirUHy4yBK6qdJRAJYV21yPPuGz",
+      "displayName": "Ergo",
+      "isFiat": false,
+      "isGateway": false,
+      "wavesId": "ERG",
+      "gatewayId": "",
+      "addressRegEx": ""
     }
   ],
   "assets": [
+    {
+      "iconUrls": {
+        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v2/mtn.png"
+      },
+      "assetId": "8HYDtqEuHj3RDcwR8yxEvPq1qQSB9FazC8wMHtRb2TFe",
+      "displayName": "Mytracknet",
+      "isFiat": false,
+      "isGateway": false,
+      "wavesId": "MTN",
+      "gatewayId": "",
+      "addressRegEx": ""
+    },
+    {
+      "iconUrls": {
+        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v2/rmob.png"
+      },
+      "assetId": "BmcArNN9VnKAp3HbvpKaoE3utwEXqvP1UjunS9DVKdGS",
+      "displayName": "RewardMob",
+      "isFiat": false,
+      "isGateway": false,
+      "wavesId": "RMOB",
+      "gatewayId": "",
+      "addressRegEx": ""
+    },
+    {
+      "iconUrls": {
+        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v2/tks.png"
+      },
+      "assetId": "BDMRyZsmDZpgKhdM7fUTknKcUbVVkDpMcqEj31PUzjMy",
+      "displayName": "Tokes Platform",
+      "isFiat": false,
+      "isGateway": false,
+      "wavesId": "TKS",
+      "gatewayId": "",
+      "addressRegEx": ""
+    },
+    {
+      "iconUrls": {
+        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v2/smq.png"
+      },
+      "assetId": "CBik4JEmsoPZKKATnShULYj2ebUao5aada9N1XGznEET",
+      "displayName": "Simdaq",
+      "isFiat": false,
+      "isGateway": false,
+      "wavesId": "SMQ",
+      "gatewayId": "",
+      "addressRegEx": ""
+    },
+    {
+      "iconUrls": {
+        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v2/bolt.png"
+      },
+      "assetId": "3mLdMgrg2DQiPfs6NpfB9uPBSdEnXmrWdfh8oyEfuQBu",
+      "displayName": "BolttCoin",
+      "isFiat": false,
+      "isGateway": false,
+      "wavesId": "BOLT",
+      "gatewayId": "",
+      "addressRegEx": ""
+    },
+    {
+      "iconUrls": {
+        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v2/ycht.png"
+      },
+      "assetId": "Hm2VobU7tAX3uvqk18z8bTo44Spq3SpcFU5afe1vh69X",
+      "displayName": "Yachtco",
+      "isFiat": false,
+      "isGateway": false,
+      "wavesId": "YCHT",
+      "gatewayId": "",
+      "addressRegEx": ""
+    },
+    {
+      "iconUrls": {
+        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v2/ww.png"
+      },
+      "assetId": "AbunLGErT5ctzVN8MVjb4Ad9YgjpubB8Hqb17VxzfAck",
+      "displayName": "Waves World",
+      "isFiat": false,
+      "isGateway": false,
+      "wavesId": "WW",
+      "gatewayId": "",
+      "addressRegEx": ""
+    },
+    {
+      "iconUrls": {
+        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v2/inct.png"
+      },
+      "assetId": "FLbGXzrpqkvucZqsHDcNxePTkh2ChmEi4GdBfDRRJVof",
+      "displayName": "Incent Loyalty",
+      "isFiat": false,
+      "isGateway": false,
+      "wavesId": "INCT",
+      "gatewayId": "",
+      "addressRegEx": ""
+    },
     {
       "iconUrls": {
         "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v2/mrt.png"
