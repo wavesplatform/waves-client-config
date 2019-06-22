@@ -8,6 +8,7 @@
     "gatewayUrl": "https://gateways-dev.wvservices.com/api"
   },
   "scheme": "T",
+  "vostokScheme" : "F",
   "generalAssets": [
     {
       "assetId": "WAVES",
