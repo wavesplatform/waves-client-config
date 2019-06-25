@@ -41,7 +41,7 @@
     "CAN_CANCEL_ORDER": true,
     "CAN_PAIRING_WITH_MOBILE": true,
     "CAN_ANY_TRANSACTION": true,
-    "CONTEST_TIME": true 
+    "CONTEST_TIME": false 
   },
   "NOTIFICATIONS": [
    {
