@@ -56,7 +56,17 @@
        "ru": "Выиграй 5 000 WAVES в конкурсе трейдеров на Waves DEX! Подробности по ссылке: [wsoc.io](https://wsoc.io/?utm_source=dexsite&utm_medium=cpm)"
      },
      "wsoc": true
-   }
+   },
+    {
+     "type":"info",
+      "id": "coinomat info",
+      "start_date": "Thu Jul 17 2019 00:00:00 GMT+0300",
+      "end_date": "Thu Jul 24 2019 00:00:00 GMT+0300",
+      "wsoc": true,
+      "text": {
+        "en": "ATTN! Starting the 17th of July 2019  EUR and USD bank account details for recharging the Waves wallets will be changed. Please see [Coinomat Telegram channel](https://t.me/CoinomatNews) for new recharging details.",
+        "ru": "Внимание! Starting the 17th of July 2019  EUR and USD bank account details for recharging the Waves wallets will be changed. Please see [Coinomat Telegram channel](https://t.me/CoinomatNews) for new recharging details."
+      }
   ],
   "SETTINGS": {
     "DEX": {
