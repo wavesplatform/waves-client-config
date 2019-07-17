@@ -46,13 +46,13 @@
   "NOTIFICATIONS": [
    {
      "type":"info",
-      "id": "WSOC",
-      "start_date": "Thu Jun 13 2019 00:00:00 GMT+0300",
-      "end_date": "Thu Jun 20 2019 00:00:00 GMT+0300",
+      "id": "coinomat info",
+      "start_date": "Thu Jul 17 2019 00:00:00 GMT+0300",
+      "end_date": "Thu Jul 24 2019 00:00:00 GMT+0300",
       "wsoc": true,
       "text": {
-        "en": "Win 5,000 WAVES in a trading contest on Waves DEX! Details can be found here: [wsoc.io](https://wsoc.io)",
-        "ru": "Выиграй 5 000 WAVES в конкурсе трейдеров на Waves DEX! Подробности по ссылке: [wsoc.io](https://wsoc.io)"
+        "en": "Starting the 17th of July 2019  EUR and USD bank account details for recharging the Waves wallets will be changed. Please see [Coinomat Telegram channel](https://t.me/CoinomatNews) for new recharging details.",
+        "ru": "Starting the 17th of July 2019  EUR and USD bank account details for recharging the Waves wallets will be changed. Please see [Coinomat Telegram channel](https://t.me/CoinomatNews) for new recharging details."
       }
     }],
   "SETTINGS": {
