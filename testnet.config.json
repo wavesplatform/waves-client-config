@@ -76,7 +76,5 @@
     }
   },
   "SERVICE_TEMPORARILY_UNAVAILABLE": false,
-  "GATEWAYS_SOON": [
-    ""
-  ]
+  "GATEWAYS_SOON": []
 }
