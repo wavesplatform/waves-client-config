@@ -41,7 +41,7 @@
     "CAN_CANCEL_ORDER": true,
     "CAN_PAIRING_WITH_MOBILE": true,
     "CAN_ANY_TRANSACTION": true,
-    "CONTEST_TIME": false 
+    "CONTEST_TIME": false
   },
   "NOTIFICATIONS": [
    {
@@ -71,7 +71,8 @@
         "FvKx3cerSVYGfXKFvUgp7koNuTAcLs8DmtmwRrFVCqJv",
         "3P8gkhcLhFQvBkDzMnWeqqwvq3qxkpTNQPs4LUQ95tKD",
         "8oPbSCKFHkXBy1hCGSg9pJkSARE7zhTQTLpc8KZwdtr7",
-        "6KSUNALdYEd1EVTE4dTcSHzNw1dA3Q6ieokSRVuEcALV"
+        "6KSUNALdYEd1EVTE4dTcSHzNw1dA3Q6ieokSRVuEcALV",
+        "EmcmfM27TPaemhuREZGD8WLvsuLCdqx8WovMrDQKbXS1"
       ]
     }
   },
