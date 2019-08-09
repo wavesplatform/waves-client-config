@@ -69,10 +69,10 @@
      "type":"info",
       "id": "VTC-dex2",
       "start_date": "Thu Aug 10 2019 00:00:00 GMT+0300",
-      "end_date": "Thu Aug 10 2019 17:00:00 GMT+0300",
+      "end_date": "Thu Aug 10 2019 21:00:00 GMT+0300",
       "text": {
-        "en": "VST trading has been stopped for maintenance. We plan to resume the trading on August, 10 at 14:00 PM UTC. Your patience is much appreciated!",
-        "ru": "В связи с техническими работами торговля по парам с токеном VST приостановлена. Мы планируем возобновить торги 10 августа в 14:00 UTC. Приносим извинения за доставленные неудобства."
+        "en": "VST trading has been stopped for maintenance. We plan to resume the trading on August, 10. Your patience is much appreciated!",
+        "ru": "В связи с техническими работами торговля по парам с токеном VST приостановлена. Мы планируем возобновить торги 10 августа. Приносим извинения за доставленные неудобства."
       }
     }
   ],
