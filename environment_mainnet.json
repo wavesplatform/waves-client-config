@@ -185,10 +185,11 @@
       "assetId": "5dJj4Hn9t2Ve3tRpNGirUHy4yBK6qdJRAJYV21yPPuGz",
       "displayName": "Ergo",
       "isFiat": false,
-      "isGateway": false,
+      "isGateway": true,
       "wavesId": "ERG",
-      "gatewayId": "",
-      "addressRegEx": ""
+      "gatewayId": "Ergo",
+      "gatewayType": "gateway",
+      "addressRegEx": "^9[a-km-zA-HJ-NP-Z1-9]{5,}$"
     }
   ],
   "assets": [
