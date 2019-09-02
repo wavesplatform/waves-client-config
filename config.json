@@ -48,12 +48,12 @@
    "NOTIFICATIONS":[
       {
          "type":"info",
-         "id":"coinomat info",
+         "id":"electron update",
          "start_date":"Thu Jul 17 2019 00:00:00 GMT+0300",
          "end_date":"Thu Jul 24 2019 00:00:00 GMT+0300",
          "text":{
-            "en":"ATTN! Starting the 17th of July 2019  EUR and USD bank account details for recharging the Waves wallets will be changed. Please see [Coinomat Telegram channel](https://t.me/CoinomatNews) for new recharging details.",
-            "ru":"Внимание! С 17 Июля 2019 года изменились банковские реквизиты для пополнения кошельков EUR и USD. Новые реквизиты можно найти в [официальном телеграм канале шлюза Coinomat](https://t.me/CoinomatNews)."
+            "en":"Attention! Update to the latest version your [WavesDEX desktop application](https://wavesplatform.com/technology/wallet).",
+            "ru":"Внимание! Обновите ваше [десктопное приложение WavesDEX](https://wavesplatform.com/technology/wallet) до последней версии."
          }
       }
    ],
