@@ -49,8 +49,8 @@
       {
          "type":"info",
          "id":"electron update",
-         "start_date":"Thu Jul 17 2019 00:00:00 GMT+0300",
-         "end_date":"Thu Jul 24 2019 00:00:00 GMT+0300",
+         "start_date":"Thu Sep 02 2019 00:00:00 GMT+0300",
+         "end_date":"Thu Sep 06 2019 00:00:00 GMT+0300",
          "text":{
             "en":"Attention! Update to the latest version your [WavesDEX desktop application](https://wavesplatform.com/technology/wallet).",
             "ru":"Внимание! Обновите ваше [десктопное приложение WavesDEX](https://wavesplatform.com/technology/wallet) до последней версии."
