@@ -87,7 +87,19 @@
       "gatewayType": "coinomat",
       "addressRegEx": ""
     },
-    false,
+    {
+      "iconUrls": {
+        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v3/litecoin.png"
+      },
+      "assetId": "HZk1mbfuJpmxU1Fs4AX5MWLVYtctsNcg6e2C6VKqK8zk",
+      "displayName": "Litecoin",
+      "isFiat": false,
+      "isGateway": true,
+      "wavesId": "WLTC",
+      "gatewayId": "LTC",
+      "gatewayType": "coinomat",
+      "addressRegEx": "^[LM3][a-km-zA-HJ-NP-Z1-9]{26,33}$"
+    },
     {
       "iconUrls": {
         "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v3/zec.png"
