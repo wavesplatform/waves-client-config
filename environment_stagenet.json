@@ -1,5 +1,5 @@
 {
-  "name": "Mainnet",
+  "name": "Stagenet",
   "servers": {
     "nodeUrl": "https://nodes-stagenet.wavesnodes.com",
     "dataUrl": "https://api-stagenet.wavesplatform.com",
@@ -183,7 +183,7 @@
       "iconUrls": {
         "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v3/bancor.png"
       },
-      "assetId": "F81SdfzBZr5ce8JArRWLPJEDg1V8yT257ohbcHk75yCp",
+      "assetId": "5oS1vs1x3pa6k9XrKuSoQHVs5zyQNakhHjXZAFUxYMS9",
       "displayName": "Bancor",
       "isFiat": false,
       "isGateway": true,
