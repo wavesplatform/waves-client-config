@@ -58,11 +58,11 @@
        {
          "type":"info",
          "id":"eth gateway",
-         "start_date":"Thu Sep 010 2019 00:00:00 GMT+0300",
-         "end_date":"Thu Sep 15 2019 00:00:00 GMT+0300",
+         "start_date":"Thu Sep 018 2019 00:00:00 GMT+0300",
+         "end_date":"Thu Sep 25 2019 00:00:00 GMT+0300",
          "text":{
-         "en":"Ethereum gateway is back to regular operation. In case of difficulties, please contact [support.wavesplatform.com](http://support.wavesplatform.com/)",
-         "ru":"Ethereum шлюз работает в нормальном режиме. В случае возникновения проблем, пожалуйста, свяжитесь с нами [support.wavesplatform.com](http://support.wavesplatform.com/)"
+         "en":"Important Announcement for WavesDEX users! Your depositing address for the ETH payment gateway has been changed. Make sure to deposit ETH to your new address! In case of any issues, contact Waves team at [support.wavesplatform.com](http://support.wavesplatform.com/)",
+         "ru":"Важное объявление для пользователей Waves DEX! Пожалуйста, обратите внимание: адрес для входящих ETH-транзакций в вашем аккаунте Waves был изменен. Если у вас возникнут вопросы по использованию нового адреса, свяжитесь с командой Waves: [support.wavesplatform.com](http://support.wavesplatform.com/)"
          }
       }
    ],
