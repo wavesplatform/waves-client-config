@@ -47,12 +47,12 @@
    "NOTIFICATIONS":[
       {
          "type":"info",
-         "id":"Coinomat update",
-         "start_date":"Thu Sep 21 2019 00:00:00 GMT+0300",
+         "id":"gateway updates",
+         "start_date":"Thu Sep 23 2019 00:00:00 GMT+0300",
          "end_date":"Thu Sep 28 2019 00:00:00 GMT+0300",
          "text":{
-            "en":"Dear customers, Please note that Coinomat gateways (BTC, LTC, ZEC, Dash, BCH, BSV, XMR and ETH withdrawals) are suspended for the [update](https://github.com/wavesplatform/Waves/releases/tag/v1.1.2). We expect the process to take up to several hours.",
-            "ru":"Уважаемые клиенты! Обратите внимание, что в связи с [обновлением](https://github.com/wavesplatform/Waves/releases/tag/v1.1.2) все операции на стороне Coinomat шлюзов (BTC, LTC, ZEC, Dash, BCH, BSV, XMR и ETH выводы) приостановлены ориентировочно на несколько часов."
+            "en":"All gateways are back to online. All transactions will be processed gradually. In case of difficulties, please contact [support.wavesplatform.com](http://support.wavesplatform.com/)",
+            "ru":"Рады сообщить, что все шлюзы работают в нормальном режиме. В случае возникновения трудностей с платежами, пожалуйста, свяжитесь с нами [support.wavesplatform.com](http://support.wavesplatform.com/)"
          }
       },
        {
