@@ -51,7 +51,7 @@
          "start_date":"Thu Sep 23 2019 00:00:00 GMT+0300",
          "end_date":"Thu Sep 28 2019 00:00:00 GMT+0300",
          "text":{
-            "en":"All gateways are back to online. All transactions will be processed gradually. In case of difficulties, please contact [support.wavesplatform.com](http://support.wavesplatform.com/)",
+            "en":"All gateways are back online. All transactions will be processed gradually. In case of difficulties, please contact [support.wavesplatform.com](http://support.wavesplatform.com/)",
             "ru":"Рады сообщить, что все шлюзы работают в нормальном режиме. В случае возникновения трудностей с платежами, пожалуйста, свяжитесь с нами [support.wavesplatform.com](http://support.wavesplatform.com/)"
          }
       },
