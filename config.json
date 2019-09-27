@@ -49,7 +49,7 @@
          "type":"info",
          "id":"gateway update",
          "start_date":"Thu Sep 26 2019 00:00:00 GMT+0300",
-         "end_date":"Thu Oct 02 2019 00:00:00 GMT+0300",
+         "end_date":"Thu Sep 26 2019 00:00:00 GMT+0300",
          "text":{
             "en":"The [maintenance](https://support.wavesplatform.com/en/knowledge-bases/2/articles/35046-gateways-partly-back-to-regular-mode) is almost over and the gateways are switching on. Please note, that operations might take longer than usual. We expect the gateways to get back to regular mode within 24 hours. In case of difficulties, please contact [support.wavesplatform.com](https://support.wavesplatform.com/).",
             "ru":"Технические [работы](https://support.wavesplatform.com/ru/knowledge-bases/2/articles/35037-otklyuchenie-coinomat-shlyuzov-po-tehnicheskim-prichinam) перешли в завершающую фазу. Обратите внимание, что транзакции проводятся медленнее обычного. Ожидаемое время ввода шлюзов в нормальный режим - 24 часа. В случае возникновения трудностей с платежами, пожалуйста, свяжитесь с нами [support.wavesplatform.com](https://support.wavesplatform.com/)."
