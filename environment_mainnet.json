@@ -58,7 +58,7 @@
       "isGateway": true,
       "wavesId": "WETH",
       "gatewayId": "ETH",
-      "gatewayType": "coinomat",
+      "gatewayType": "gateway",
       "addressRegEx": "^0x[0-9a-fA-F]{40}$"
     },
     {
