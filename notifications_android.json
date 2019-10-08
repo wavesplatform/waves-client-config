@@ -35,6 +35,20 @@
         "ru": "Следи за рынком без запуска приложения. Поддерживается в версии 2.6.0 и выше.",
         "tr": "Lleve un registro de los precios sin abrir la aplicación. Soportado en la versión 2.6.0 y superior."
       }
+    },
+    {
+      "startDate": "1570527052",
+      "endDate": "1571391052",
+      "logoUrl": "https://s3.eu-central-1.amazonaws.com/it-1639.waves.mobile.pictures/news/bigwarning.png",
+      "id": "eth_update",
+      "title": {
+        "en": "Important Announcement for WavesDEX users!",
+        "ru": "Важное объявление для пользователей Waves DEX! "
+      },
+      "subTitle": {
+        "en": "Your depositing address for the ETH payment gateway has been changed. Make sure to deposit ETH to your new address!",
+        "ru": "Пожалуйста, обратите внимание: адрес для входящих ETH-транзакций в вашем аккаунте Waves был изменен."
+      }
     }
   ]
 }
