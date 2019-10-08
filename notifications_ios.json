@@ -1,8 +1,8 @@
 {
   "notifications": [
     {
-      "startDate": "1570665600000",
-      "endDate": "1571097600000",
+      "startDate": "1570665600",
+      "endDate": "1571097600",
       "logoUrl": "https://s3.eu-central-1.amazonaws.com/it-1639.waves.mobile.pictures/news/bigwarning.png",
       "id": "eth_update",
       "title": {
@@ -15,8 +15,8 @@
       }
     },
     {
-      "startDate": "1570665600000",
-      "endDate": "1571097600000",
+      "startDate": "1570665600",
+      "endDate": "1571097600",
       "logoUrl": "https://d1jh0rcszsaxik.cloudfront.net/news/widgetlaunched_android.png",
       "id": "crypto_widget_2.6.1",
       "title": {
