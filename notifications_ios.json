@@ -1,7 +1,7 @@
 {
   "notifications": [
     {
-      "startDate": "1570665600",
+      "startDate": "1570406400",
       "endDate": "1571097600",
       "logoUrl": "https://s3.eu-central-1.amazonaws.com/it-1639.waves.mobile.pictures/news/bigwarning.png",
       "id": "eth_update",
