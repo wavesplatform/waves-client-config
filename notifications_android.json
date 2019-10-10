@@ -1,6 +1,20 @@
 {
   "notifications": [
     {
+      "startDate": "1570665600",
+      "endDate": "1570752000",
+      "logoUrl": "https://s3.eu-central-1.amazonaws.com/it-1639.waves.mobile.pictures/news/bigwarning.png",
+      "id": "deposits_and_withdrawals",
+      "title": {
+        "en": "Important Announcement!",
+        "ru": "Важное объявление!"
+      },
+      "subTitle": {
+        "en": "Deposits and withdrawals are suspended for BTC, LTC, DASH, XMR, ZEC, BCH and BSV.",
+        "ru": "Ввод и вывод BTC, LTC, DASH, XMR, ZEC, BCH и BSV временно недоступен в связи с техническими работами."
+      }
+    },
+    {
       "startDate": "1570406400",
       "endDate": "1571097600",
       "logoUrl": "https://s3.eu-central-1.amazonaws.com/it-1639.waves.mobile.pictures/news/bigwarning.png",
