@@ -61,8 +61,8 @@
          "start_date":"Thu Oct 10 2019 00:00:00 GMT+0300",
          "end_date":"Fri Oct 11 2019 00:00:00 GMT+0300",
          "text":{
-         "en":"Deposits and withdrawals are suspended for BTC, LTC, DASH, XMR, ZEC, BCH, and BSV. [More information](https://support.wavesplatform.com/en/knowledge-bases/2/articles/35548-gateways-are-currently-shut-down-for-system-maintenance)",
-         "ru":"Ввод и вывод BTC, LTC, DASH, XMR, ZEC, BCH, и BSV временно недоступен в связи с техническими работами. [Больше информации](https://support.wavesplatform.com/ru/knowledge-bases/2/articles/35548-rabota-shlyuzov-priostanovlena-po-prichine-tehnicheskih-rabot)"
+         "en":"Deposits and withdrawals are suspended for BTC, LTC, DASH, XMR, ZEC, BCH and BSV. [More information](https://support.wavesplatform.com/en/knowledge-bases/2/articles/35548-gateways-are-currently-shut-down-for-system-maintenance)",
+         "ru":"Ввод и вывод BTC, LTC, DASH, XMR, ZEC, BCH и BSV временно недоступен в связи с техническими работами. [Больше информации](https://support.wavesplatform.com/ru/knowledge-bases/2/articles/35548-rabota-shlyuzov-priostanovlena-po-prichine-tehnicheskih-rabot)"
          }
       }
    ],
