@@ -47,22 +47,22 @@
    "NOTIFICATIONS":[
       {
          "type":"info",
-         "id":"vst trading",
-         "start_date":"Fri Oct 04 2019 00:00:00 GMT+0300",
-         "end_date":"Fri Oct 11 2019 00:00:00 GMT+0300",
-         "text":{
-            "en":"Dear Waves DEX users! Please note that there might be problems when trading VST token on the DEX. The team is aware of the current situation and is already working on a solution.",
-            "ru":"Уважаемые пользователи DEX! В данный момент могут возникать трудности при торговле с токеном VST. Команда в курсе проблемы и работает над ее устранением."
-         }
-      },
-       {
-         "type":"info",
          "id":"gateway maintenance",
          "start_date":"Thu Oct 10 2019 00:00:00 GMT+0300",
          "end_date":"Fri Oct 11 2019 00:00:00 GMT+0300",
          "text":{
          "en":"Deposits and withdrawals are suspended for BTC, LTC, DASH, XMR, ZEC, BCH and BSV. [More information](https://support.wavesplatform.com/en/knowledge-bases/2/articles/35548-gateways-are-currently-shut-down-for-system-maintenance)",
          "ru":"Ввод и вывод BTC, LTC, DASH, XMR, ZEC, BCH и BSV временно недоступен в связи с техническими работами. [Больше информации](https://support.wavesplatform.com/ru/knowledge-bases/2/articles/35548-rabota-shlyuzov-priostanovlena-po-prichine-tehnicheskih-rabot)"
+         }
+      },
+       {
+          "type":"info",
+         "id":"vst trading",
+         "start_date":"Fri Oct 04 2019 00:00:00 GMT+0300",
+         "end_date":"Fri Oct 11 2019 00:00:00 GMT+0300",
+         "text":{
+            "en":"Dear Waves DEX users! Please note that there might be problems when trading VST token on the DEX. The team is aware of the current situation and is already working on a solution.",
+            "ru":"Уважаемые пользователи DEX! В данный момент могут возникать трудности при торговле с токеном VST. Команда в курсе проблемы и работает над ее устранением."
          }
       }
    ],
