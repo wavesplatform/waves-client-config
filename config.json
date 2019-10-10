@@ -57,12 +57,12 @@
       },
        {
          "type":"info",
-         "id":"new eth address",
-         "start_date":"Thu Sep 018 2019 00:00:00 GMT+0300",
-         "end_date":"Thu Sep 25 2019 00:00:00 GMT+0300",
+         "id":"gateway maintenance",
+         "start_date":"Thu Oct 10 2019 00:00:00 GMT+0300",
+         "end_date":"Fri Oct 11 2019 00:00:00 GMT+0300",
          "text":{
-         "en":"Important Announcement for WavesDEX users! Your depositing address for the ETH payment gateway has been changed. Make sure to deposit ETH to your new address! In case of any issues, contact Waves team at [support.wavesplatform.com](http://support.wavesplatform.com/)",
-         "ru":"Важное объявление для пользователей Waves DEX! Пожалуйста, обратите внимание: адрес для входящих ETH-транзакций в вашем аккаунте Waves был изменен. Если у вас возникнут вопросы по использованию нового адреса, свяжитесь с командой Waves: [support.wavesplatform.com](http://support.wavesplatform.com/)"
+         "en":"Deposits and withdrawals are suspended for BTC, LTC, DASH, XMR, ZEC, BCH, and BSV. [More information](https://support.wavesplatform.com/en/knowledge-bases/2/articles/35548-gateways-are-currently-shut-down-for-system-maintenance)",
+         "ru":"Ввод и вывод BTC, LTC, DASH, XMR, ZEC, BCH, и BSV временно недоступен в связи с техническими работами. [Больше информации](https://support.wavesplatform.com/ru/knowledge-bases/2/articles/35548-rabota-shlyuzov-priostanovlena-po-prichine-tehnicheskih-rabot)"
          }
       }
    ],
