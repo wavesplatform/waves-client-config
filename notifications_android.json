@@ -4,14 +4,14 @@
       "startDate": "1570665600",
       "endDate": "1570752000",
       "logoUrl": "https://s3.eu-central-1.amazonaws.com/it-1639.waves.mobile.pictures/news/bigwarning.png",
-      "id": "deposits_and_withdrawals",
+      "id": "gateway updates",
       "title": {
         "en": "Important Announcement!",
         "ru": "Важное объявление!"
       },
       "subTitle": {
-        "en": "Deposits and withdrawals are suspended for BTC, LTC, DASH, XMR, ZEC, BCH and BSV.",
-        "ru": "Ввод и вывод BTC, LTC, DASH, XMR, ZEC, BCH и BSV временно недоступен в связи с техническими работами."
+        "en":"The maintenance is almost over and the gateways are switching on.",
+        "ru":"Технические работы перешли в завершающую фазу и шлюзы постепенно возвращаются в работу."
       }
     },
     {
