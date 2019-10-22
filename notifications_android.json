@@ -1,8 +1,8 @@
 {
   "notifications": [
     {
-      "startDate": "1570665600",
-      "endDate": "1570838400",
+      "startDate": "1571749000",
+      "endDate": "1571898800",
       "logoUrl": "https://s3.eu-central-1.amazonaws.com/it-1639.waves.mobile.pictures/news/bigwarning.png",
       "id": "gateway_updates",
       "title": {
@@ -10,8 +10,8 @@
         "ru": "Важное объявление!"
       },
       "subTitle": {
-        "en":"The maintenance is almost over and the gateways are switching on.",
-        "ru":"Технические работы перешли в завершающую фазу и шлюзы постепенно возвращаются в работу."
+        "en":"Bitcoin gateway and buying Waves from card temporarily suspended.",
+        "ru":"Операции на стороне Bitcoin шлюза и покупка Waves с карты временно недоступны."
       }
     },
     {
