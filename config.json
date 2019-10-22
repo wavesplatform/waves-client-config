@@ -47,12 +47,12 @@
    "NOTIFICATIONS":[
       {
          "type":"info",
-         "id":"end of maintenance",
-         "start_date":"Thu Oct 10 2019 00:00:00 GMT+0300",
-         "end_date":"Fri Oct 12 2019 00:00:00 GMT+0300",
+         "id":"new maintenance",
+         "start_date":"Tue Oct 22 2019 00:00:00 GMT+0300",
+         "end_date":"Wed Oct 23 2019 00:00:00 GMT+0300",
          "text":{
-         "en":"The maintenance is almost over and the gateways are switching on. [More information](https://support.wavesplatform.com/en/knowledge-bases/2/articles/35574-gateways-partly-back-to-regular-mode)",
-         "ru":"Технические работы перешли в завершающую фазу и шлюзы постепенно возвращаются в работу. [Больше информации](https://support.wavesplatform.com/ru/knowledge-bases/2/articles/35574-postepennyij-zapusk-shlyuzov)"
+         "en":"Bitcoin gateway and buying Waves from card temporarily suspended.",
+         "ru":"Операции на стороне Bitcoin шлюза и покупка Waves с карты временно недоступны."
          }
       },
        {
