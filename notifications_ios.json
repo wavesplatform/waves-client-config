@@ -1,8 +1,8 @@
 {
   "notifications": [
     {
-      "startDate": "1570665600",
-      "endDate": "1570838400",
+      "startDate": "1571749000",
+      "endDate": "1571898800",
       "logoUrl": "https://s3.eu-central-1.amazonaws.com/it-1639.waves.mobile.pictures/news/bigwarning.png",
       "id": "gateway_new_updates",
       "title": {
