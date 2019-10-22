@@ -48,8 +48,8 @@
       {
          "type":"info",
          "id":"new maintenance",
-         "start_date":"Tue Oct 22 2019 00:00:00 GMT+0300",
-         "end_date":"Wed Oct 23 2019 00:00:00 GMT+0300",
+         "start_date":"Fri Oct 04 2019 00:00:00 GMT+0300",
+         "end_date":"Fri Oct 18 2019 00:00:00 GMT+0300",
          "text":{
          "en":"Bitcoin gateway and buying Waves from card temporarily suspended.",
          "ru":"Операции на стороне Bitcoin шлюза и покупка Waves с карты временно недоступны."
