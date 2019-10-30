@@ -46,15 +46,38 @@
   "NOTIFICATIONS": [
    {
      "type":"info",
-      "id": "coinomat info",
-      "start_date": "Thu Jul 17 2019 00:00:00 GMT+0300",
-      "end_date": "Thu Jul 24 2019 00:00:00 GMT+0300",
+      "id": "btc and eth updates",
+      "start_date": "Wed Oct 30 2019 03:00:00 GMT+0300",
+      "end_date": "Sat Nov 30 2019 03:00:00 GMT+0300",
       "wsoc": true,
       "text": {
-        "en": "ATTN! Starting the 17th of July 2019  EUR and USD bank account details for recharging the Waves wallets will be changed. Please see [Coinomat Telegram channel](https://t.me/CoinomatNews) for new recharging details.",
-        "ru": "Внимание! Starting the 17th of July 2019  EUR and USD bank account details for recharging the Waves wallets will be changed. Please see [Coinomat Telegram channel](https://t.me/CoinomatNews) for new recharging details."
+        "en": "Your addresses of BTC and ETH wallets on Waves DEX have changed. Enter the exchange account and check new addresses.",
+        "ru": "Адреса BTC и ETH-кошельков на Waves DEX изменились. Зайдите в аккаунт на бирже и проверьте новые адреса."
       }
-    }],
+    },
+    {
+      "type":"info",
+       "id": "fees",
+       "start_date": "Wed Oct 30 2019 03:00:00 GMT+0300",
+       "end_date": "Sat Nov 30 2019 03:00:00 GMT+0300",
+       "wsoc": true,
+       "text": {
+         "en": "Pay fees on Waves DEX on better terms at BTC, ETH and TDX.  Till November 23 there will be a 50% discount on fees at BTC and ETH!",
+         "ru": "Оплачивайте комиссии на Waves DEX на более выгодных условиях в BTC, ETH и TDX. До 23 ноября – скидка 50% на комиссии в BTC и ETH!"
+       }
+     },
+     {
+     "type":"info",
+      "id": "leasing",
+      "start_date": "Wed Oct 30 2019 03:00:00 GMT+0300",
+      "end_date": "Sat Nov 30 2019 03:00:00 GMT+0300",
+      "wsoc": true,
+      "text": {
+        "en": "Earn 6% annual on Waves DEX! Lease your WAVES and earn passive income. It’s easy! Just click on ‘Leasing’ at the ‘Wallet’ tab.",
+        "ru": "Зарабатывайте 6% годовых на Waves DEX! Передайте WAVES в лизинг и получайте пассивный доход. Это просто! Выберите «Лизинг» во вкладке «Кошелек»."
+      }
+    }
+   ],
   "SETTINGS": {
     "DEX": {
       "WATCH_LIST_PAIRS": [
