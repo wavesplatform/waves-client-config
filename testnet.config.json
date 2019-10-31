@@ -101,5 +101,10 @@
   },
   "SERVICE_TEMPORARILY_UNAVAILABLE": false,
   "GATEWAYS_SOON": [
-  ]
+  ],
+  "DESKTOP_URLS": {
+    "mac": "https://wavesplatform.com/files/WavesDEX-mac.dmg",
+    "win": "https://wavesplatform.com/files/WavesDEX-win.zip",
+    "linux": "https://wavesplatform.com/files/WavesDEX-linux.deb"
+  }
 }
