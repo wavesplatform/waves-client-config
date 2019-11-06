@@ -52,7 +52,7 @@
      "end_date": "Sat Nov 30 2019 03:00:00 GMT+0300",
      "wsoc": true,
      "text": {
-       "en": "Your addresses of BTC and ETH wallets on Waves DEX have changed. Enter the exchange account and check new addresses.",
+       "en": "Deposits addresses changed. New gateway BTC and ETH addresses can be found in BTC and ETH Receive form within your wallet. Make sure you’ve changed them in your third parties wallets and exhchanges. Deposits sent to old gateway addresses might be recovered through Support.",
        "ru": "Адреса BTC и ETH-кошельков на Waves DEX изменились. Зайдите в аккаунт на бирже и проверьте новые адреса."
      }
    },
