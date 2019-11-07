@@ -108,6 +108,7 @@
    "SERVICE_TEMPORARILY_UNAVAILABLE":false,
    "GATEWAYS_SOON":[
    ],
+  "WAVES_EXCHANGE_LOCKED": true,
   "DESKTOP_URLS": {
      "mac": "https://wavesplatform.com/files/WavesDEX-mac.dmg",
      "win": "https://wavesplatform.com/files/WavesDEX-win.zip",
