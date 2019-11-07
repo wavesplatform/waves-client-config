@@ -1,5 +1,17 @@
 {
     "notifications": [
+                {
+            "startDate": "1550793600",
+            "endDate": "7348032087",
+            "logoUrl": "https://github-proxy.wvservices.com/wavesplatform/waves-client-config/mobile/v2.3/notifications_test_android_1.png",
+            "id": "Test_134_!23123",
+            "title": {
+                "en": "Everybody dance now!"
+            },
+            "subTitle": {
+                "en": "Lorem Ipsum - это текст-рыба, часто используемый в печати и вэб-дизайне. **Lorem Ipsum** является стандартной рыбой для текстов на латинице с начала XVI века. В то время некий безымянный печатник создал большую коллекцию размеров и форм шрифтов, [client](https://client.wavesplatform.com) Lorem Ipsum для распечатки образцов. Lorem Ipsum не только успешно пережил без заметных изменений пя"
+            }
+        },
         {
             "startDate": "1550793600",
             "endDate": "1559406054",
