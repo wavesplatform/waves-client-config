@@ -189,6 +189,18 @@
       "wavesId": "ERG",
       "gatewayId": "",
       "addressRegEx": ""
+    },
+    {
+      "iconUrls": {
+        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v3/tidex.png"
+      },
+      "assetId": "3QvxP6YFBKpWJSMAfYtL8Niv8KmmKsnpb9uQwQpg8QN2",
+      "displayName": "Tidex",
+      "isFiat": false,
+      "isGateway": false,
+      "wavesId": "TDX",
+      "gatewayId": "",
+      "addressRegEx": ""
     }
   ],
   "assets": [
@@ -371,6 +383,19 @@
       "wavesId": "XBBT",
       "gatewayId": "",
       "addressRegEx": ""
+    },
+    {
+      "iconUrls": {
+        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v3/bancor.png"
+      },
+      "assetId": "F81SdfzBZr5ce8JArRWLPJEDg1V8yT257ohbcHk75yCp",
+      "displayName": "Bancor",
+      "isFiat": false,
+      "isGateway": true,
+      "wavesId": "BNT",
+      "gatewayId": "BNT",
+      "gatewayType": "gateway",
+      "addressRegEx": "^0x[0-9a-fA-F]{40}$"
     }
   ]
 }
