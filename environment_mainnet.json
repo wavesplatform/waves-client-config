@@ -163,6 +163,18 @@
       "wavesId": "WXMR",
       "gatewayId": "XMR",
       "addressRegEx": "^4[0-9AB][1-9A-HJ-NP-Za-km-z]{93}"
+    },
+    {
+      "iconUrls": {
+        "default": "https://d1jh0rcszsaxik.cloudfront.net/assset_icons/v3/tidex.png"
+      },
+      "assetId": "3QvxP6YFBKpWJSMAfYtL8Niv8KmmKsnpb9uQwQpg8QN2",
+      "displayName": "Tidex",
+      "isFiat": false,
+      "isGateway": false,
+      "wavesId": "TDX",
+      "gatewayId": "",
+      "addressRegEx": ""
     }
   ]
 }
