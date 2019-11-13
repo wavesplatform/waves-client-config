@@ -47,26 +47,15 @@
    "NOTIFICATIONS":[
      {
     "type":"info",
-     "id": "btc and eth updates",
-     "start_date": "Wed Oct 30 2019 03:00:00 GMT+0300",
-     "end_date": "Sat Nov 30 2019 03:00:00 GMT+0300",
+     "id": "Liga ann",
+     "start_date": "Fri Nov 15 2019 03:00:00 GMT+0300",
+     "end_date": "Fri Nov 22 2019 03:00:00 GMT+0300",
      "wsoc": true,
      "text": {
-       "en": "Deposits addresses changed. New gateway BTC and ETH addresses can be found in BTC and ETH Receive form within your wallet. Make sure you’ve changed them in your third parties wallets and exhchanges. Deposits sent to old gateway addresses might be recovered through Support.",
-       "ru": "Адреса для ввода были изменены. Новые BTC и ETH адреса можно найти в форме получения BTC и ETH в вашем кошельке. Убедитесь, что вы изменили их на внешних сервисах. Депозиты, отправленные на старые адреса шлюзов, могут быть восстановлены через службу поддержки."
+       "en": "Don't lose your chance to get 50% discount for all teams only till December 11th. UEFA Champions League launched on LIGA! [See more...](https://ligatokens.io/event/champions-league-2019-20?utm_source=dex&utm_medium=cpm&utm_campaign=cl2020&utm_content=notify)",
+       "ru": "LIGA запустила Лигу Чемпионов! Не упустите свой шанс получить карточки всех команд со скидкой 50%. Только до 11 декабря. [Подробнее...](https://ligatokens.io/event/champions-league-2019-20?utm_source=dex&utm_medium=cpm&utm_campaign=cl2020&utm_content=notify)"
      }
    },
-   {
-     "type":"info",
-      "id": "fees",
-      "start_date": "Wed Oct 30 2019 03:00:00 GMT+0300",
-      "end_date": "Sat Nov 30 2019 03:00:00 GMT+0300",
-      "wsoc": true,
-      "text": {
-        "en": "Pay fees on Waves DEX on better terms at BTC, ETH and TDX.  Till November 23 there will be a 50% discount on fees at BTC and ETH!",
-        "ru": "Оплачивайте комиссии на Waves DEX на более выгодных условиях в BTC, ETH и TDX. До 23 ноября – скидка 50% на комиссии в BTC и ETH!"
-      }
-    },
     {
     "type":"info",
      "id": "leasing",
