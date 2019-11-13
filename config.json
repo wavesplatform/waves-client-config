@@ -53,7 +53,7 @@
      "wsoc": true,
      "text": {
        "en": "Deposits addresses changed. New gateway BTC and ETH addresses can be found in BTC and ETH Receive form within your wallet. Make sure you’ve changed them in your third parties wallets and exhchanges. Deposits sent to old gateway addresses might be recovered through Support.",
-       "ru": "Адреса BTC и ETH-кошельков на Waves DEX изменились. Зайдите в аккаунт на бирже и проверьте новые адреса."
+       "ru": "Адреса для ввода были изменены. Новые BTC и ETH адреса можно найти в форме получения BTC и ETH в вашем кошельке. Убедитесь, что вы изменили их на внешних сервисах. Депозиты, отправленные на старые адреса шлюзов, могут быть восстановлены через службу поддержки."
      }
    },
    {
