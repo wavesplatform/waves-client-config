@@ -43,41 +43,30 @@
     "CAN_ANY_TRANSACTION": true,
     "CONTEST_TIME": false
   },
-  "NOTIFICATIONS": [
-   {
-     "type":"info",
-      "id": "btc and eth updates",
-      "start_date": "Wed Oct 30 2019 03:00:00 GMT+0300",
-      "end_date": "Sat Nov 30 2019 03:00:00 GMT+0300",
-      "wsoc": true,
-      "text": {
-        "en": "Your addresses of BTC and ETH wallets on Waves DEX have changed. Enter the exchange account and check new addresses.",
-        "ru": "Адреса BTC и ETH-кошельков на Waves DEX изменились. Зайдите в аккаунт на бирже и проверьте новые адреса."
-      }
-    },
-    {
-      "type":"info",
-       "id": "fees",
-       "start_date": "Wed Oct 30 2019 03:00:00 GMT+0300",
-       "end_date": "Sat Nov 30 2019 03:00:00 GMT+0300",
-       "wsoc": true,
-       "text": {
-         "en": "Pay fees on Waves DEX on better terms at BTC, ETH and TDX.  Till November 23 there will be a 50% discount on fees at BTC and ETH!",
-         "ru": "Оплачивайте комиссии на Waves DEX на более выгодных условиях в BTC, ETH и TDX. До 23 ноября – скидка 50% на комиссии в BTC и ETH!"
-       }
-     },
+  "NOTIFICATIONS":[
      {
-     "type":"info",
-      "id": "leasing",
-      "start_date": "Wed Oct 30 2019 03:00:00 GMT+0300",
-      "end_date": "Sat Nov 30 2019 03:00:00 GMT+0300",
-      "wsoc": true,
-      "text": {
-        "en": "Earn 6% annual on Waves DEX! Lease your WAVES and earn passive income. It’s easy! Just click on ‘Leasing’ at the ‘Wallet’ tab.",
-        "ru": "Зарабатывайте 6% годовых на Waves DEX! Передайте WAVES в лизинг и получайте пассивный доход. Это просто! Выберите «Лизинг» во вкладке «Кошелек»."
-      }
-    }
-   ],
+    "type":"info",
+     "id": "Liga ann",
+     "start_date": "Fri Nov 15 2019 03:00:00 GMT+0300",
+     "end_date": "Fri Nov 22 2019 03:00:00 GMT+0300",
+     "wsoc": true,
+     "text": {
+       "en": "Don't lose your chance to get 50% discount for all teams only till December 11th. UEFA Champions League launched on LIGA! [See more...](https://ligatokens.io/event/champions-league-2019-20?utm_source=dex&utm_medium=cpm&utm_campaign=cl2020&utm_content=notify)",
+       "ru": "LIGA запустила Лигу Чемпионов! Не упустите свой шанс получить карточки всех команд со скидкой 50%. Только до 11 декабря. [Подробнее...](https://ligatokens.io/event/champions-league-2019-20?utm_source=dex&utm_medium=cpm&utm_campaign=cl2020&utm_content=notify)"
+     }
+   },
+    {
+    "type":"info",
+     "id": "leasing",
+     "start_date": "Wed Oct 30 2019 03:00:00 GMT+0300",
+     "end_date": "Sat Nov 30 2019 03:00:00 GMT+0300",
+     "wsoc": true,
+     "text": {
+       "en": "Earn up to 7% annual on Waves DEX! Lease your WAVES and earn passive income. It’s easy! Just click on ‘Leasing’ at the ‘Wallet’ tab.",
+       "ru": "Зарабатывайте до 7% годовых на Waves DEX! Передайте WAVES в лизинг и получайте пассивный доход. Это просто! Выберите «Лизинг» во вкладке «Кошелек»."
+     }
+   }
+  ],
   "SETTINGS": {
     "DEX": {
       "WATCH_LIST_PAIRS": [
