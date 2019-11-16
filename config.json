@@ -99,8 +99,9 @@
    ],
   "WAVES_EXCHANGE_LOCKED": true,
   "DESKTOP_URLS": {
-     "mac": "https://wavesplatform.com/files/WavesDEX-mac.dmg",
-     "win": "https://wavesplatform.com/files/WavesDEX-win.zip",
-     "linux": "https://wavesplatform.com/files/WavesDEX-linux.deb"
+      "mac": "https://waves.exchange/files/Waves.Exchange.dmg",
+     "win": "https://waves.exchange/files/Waves.Exchange.zip",
+     "linux": "https://waves.exchange/files/Waves.Exchange.deb"
+
   }
 }
