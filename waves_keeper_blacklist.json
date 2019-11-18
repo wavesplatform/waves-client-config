@@ -8,7 +8,8 @@
     "vostok.wavesplatform.com",
     "dex.wavesplatform.com",
     "tokenrating.wavesexplorer.com",
-    "item.market"
+    "item.market",
+    "waves.exchange"
   ],
   "blacklist": [
     "binance-promo.net"
