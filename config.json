@@ -92,5 +92,10 @@
      "win": "https://waves.exchange/files/Waves.Exchange.zip",
      "linux": "https://waves.exchange/files/Waves.Exchange.deb"
 
-  }
+  },
+   "SHUTDOWN_NOTIFICATION_TIMERS": [
+    { "start": "2019-12-01T15:00:00+03:00", "end": "2019-12-01T15:01:00+03:00", "action": "showShutdownFirstModal" },
+    { "start": "2019-12-01T15:00:00+03:00", "end": "2019-12-01T15:01:00+03:00", "action": "showShutdownSecondModal" },
+    { "start": "2019-12-01T15:00:00+03:00",  "action": "showShutdownLastModal" }
+]
 }
