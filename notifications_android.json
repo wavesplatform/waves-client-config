@@ -1,3 +1,46 @@
 {
-  "notifications": []
+    "notifications": [
+                {
+            "startDate": "1574855286",
+            "endDate": "1576368000",
+            "logoUrl": "http://imageshack.com/a/img921/4228/yJ3YVO.png",
+            "id": "tokenomica_v1",
+            "title": {
+                "en": "Expand Your Investment Portfolio!",
+                "de": "Erweitern Sie Ihr Anlageportfolio!",
+                "chi": "扩大您的投资组合",
+                "fr": "Développez votre portefeuille d'investissement",
+                "es": "Amplíe su cartera de inversiones",
+                "nl": "Breid uw beleggingsportefeuille uit",
+                "pl": "Poszerz swój portfel inwestycyjny",
+                "tr": "Yatırım Portföyünüzü Genişletin",
+                "it": "Espandi il tuo portafoglio di investimenti",
+                "ja": "投資ポートフォリオを拡大",
+                "pt": "Expanda seu portfólio de investimentos",
+                "hi": "अपने निवेश पोर्टफोलियो का विस्तार करें",
+                "id": "Perluas Portofolio Investasi Anda",
+                "ko": "투자 포트폴리오 확장",
+                "et": "Laiendage oma investeerimisportfelli"
+
+            },
+            "subTitle": {
+                "en": "[Become a shareholder](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale) of the first-ever all-in-one platform for issuance and trading of tokenized assets.",
+                "de": "[Werden Sie Aktionär](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale) der ersten All-in-One-Plattform für die Ausgabe und den Sekundärhandell der digitalisierten Wertpapiere.",
+                "chi": "[成为有史以来第一个用于发行和交易令牌化资产的多平台的股东.](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale)",
+                "fr": "[Devenez actionnaire de la première plateforme tout en un d’émission et d’échange de Security Token.](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale)",
+                "es": "[Conviértase en accionista de la primera plataforma todo-en-uno para la emisión y comercialización de activos tokenizados.](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale)",
+                "nl": "[Word aandeelhouder van het allereerste alles-in-één platform voor uitgifte en secundaire handel de gedigitaliseerde activa.](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale)",
+                "pl": "[Zostań akcjonariuszem pierwszej wszechstronnej platformy do emisji i obrotu tokenizowanymi aktywami.](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale)",
+                "tr": "[Tokenlenmiş assetlerin çıkarmasi ve alım satımı için ilk bir hepsi bir arada platformun hissedarı olun.](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale)",
+                "it": "[Diventi azionista della prima tutto-in-uno piattaforma per l'emissione e il secondario commercio di attività tokenizzate.](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale)",
+                "ja": "[トークン化された資産の発行と取引のための史上初のオールインワンプラットフォームの株主になる](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale)",
+                "pt": "[Torne-se acionista da primeira tudo-em-um plataforma para emissão e negociação secundária de ativos tokenizados.](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale)",
+                "hi": "[टोकेन अस्सेट्स के प्रकाशन और व्यापार के लिए पहले कभी ऑल-इन-वन प्लेटफॉर्म का हिस्सेदार बनो](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale)",
+                "id": "[Menjadi pemegang saham platform bersama pertama untuk penerbitan dan perdagangan aset tokenized](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale)",
+                "ko": "[토큰 화 된 자산의 발행 및 거래를위한 최초의 범용 플랫폼의 주주가 되십시오](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale)",
+                "et": "[Saage esimese digitaalne väärtpaberite universaalse platvormi aktsionäriks](https://invest.tokenomica.com/?utm_source=wavesapp&utm_medium=banner&utm_campaign=presale)"
+            }
+        }
+        
+    ]
 }
