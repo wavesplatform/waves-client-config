@@ -27,7 +27,7 @@
   "network_config": {
         "testnet": {
             "code": "T",
-            "server": "https://pool.testnet.wavesnodes.com/",
+            "server": "https://nodes-testnet.wavesnodes.com/",
             "matcher": "https://matcher.testnet.wavesnodes.com/"
         },
         "mainnet": {
