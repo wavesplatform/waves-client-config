@@ -2,14 +2,13 @@
   "version": 1,
   
   "whitelist": [
-    "client.wavesplatform.com",
-    "testnet.wavesplatform.com",
+    "swop.fi",
+    "waves.exchange",
+    "testnet.waves.exchange",
     "oracles.wavesexplorer.com",
-    "vostok.wavesplatform.com",
-    "dex.wavesplatform.com",
     "tokenrating.wavesexplorer.com",
-    "item.market",
-    "waves.exchange"
+    "waves-dapp.com",
+    "waves-ide.com"
   ],
   "blacklist": [
     "binance-promo.net"
