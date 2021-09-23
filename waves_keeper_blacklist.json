@@ -8,7 +8,9 @@
     "oracles.wavesexplorer.com",
     "tokenrating.wavesexplorer.com",
     "waves-dapp.com",
-    "waves-ide.com"
+    "waves-ide.com",
+    "wavesducks.com",
+    "vires.finance"
   ],
   "blacklist": [
     "binance-promo.net"
