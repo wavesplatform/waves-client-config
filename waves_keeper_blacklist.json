@@ -28,7 +28,7 @@
         "testnet": {
             "code": "T",
             "server": "https://nodes-testnet.wavesnodes.com/",
-            "matcher": "https://matcher-testnet.wavesnodes.com/"
+            "matcher": "https://matcher-testnet.waves.exchange/"
         },
         "mainnet": {
             "code": "W",
@@ -38,7 +38,7 @@
         "stagenet": {
             "code": "S",
             "server": " https://nodes-stagenet.wavesnodes.com/",
-            "matcher": "https://matcher-stagenet.wavesplatform.com/"
+            "matcher": "https://matcher-stagenet.waves.exchange/"
         },
         "custom": {
             "code": "",
